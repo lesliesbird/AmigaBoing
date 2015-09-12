@@ -1,0 +1,5 @@
+
+Recreates the original Boing Ball demo from the Amiga computer. The ball rotates and bounces around the screen, while the time readout is using the original Amiga Topaz font.
+Shake or tap the watch along the Y (negative) axis to change the pattern of the bounce. Best way is to hold the watch the way you look at it, then bring your arm abruptly towards your body
+
+Version 3.3 - merged branches for Aplite and Basalt

@@ -1,0 +1,122 @@
+{
+  "uuid": "3516c894-435a-40fa-84db-664f1cac21d8",
+  "shortName": "Amiga Boing",
+  "longName": "Amiga Boing",
+  "companyName": "lesliesbird",
+  "versionCode": 3,
+  "versionLabel": "3.3",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+              {
+              "type": "png-trans",
+              "name": "IMAGE_FRAME1",
+              "file": "images/frame1.png",
+              "targetPlatforms": [
+                                  "aplite"
+                                  ]
+              },
+              {
+              "type": "png-trans",
+              "name": "IMAGE_FRAME2",
+              "file": "images/frame2.png",
+              "targetPlatforms": [
+                                  "aplite"
+                                  ]
+              },
+              {
+              "type": "png-trans",
+              "name": "IMAGE_FRAME3",
+              "file": "images/frame3.png",
+              "targetPlatforms": [
+                                  "aplite"
+                                  ]
+              },
+              {
+              "type": "png-trans",
+              "name": "IMAGE_FRAME4",
+              "file": "images/frame4.png",
+              "targetPlatforms": [
+                                  "aplite"
+                                  ]
+              },
+              {
+              "type": "png-trans",
+              "name": "IMAGE_FRAME5",
+              "file": "images/frame5.png",
+              "targetPlatforms": [
+                                  "aplite"
+                                  ]
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_FRAME6",
+              "file": "images/frame1.png",
+              "targetPlatforms": [
+                                  "basalt"
+                                  ]
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_FRAME7",
+              "file": "images/frame2.png",
+              "targetPlatforms": [
+                                  "basalt"
+                                  ]
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_FRAME8",
+              "file": "images/frame3.png",
+              "targetPlatforms": [
+                                  "basalt"
+                                  ]
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_FRAME9",
+              "file": "images/frame4.png",
+              "targetPlatforms": [
+                                  "basalt"
+                                  ]
+              },
+              {
+              "type": "png",
+              "name": "IMAGE_FRAME10",
+              "file": "images/frame5.png",
+              "targetPlatforms": [
+                                  "basalt"
+                                  ]
+              },
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_GRID",
+        "file": "images/background.png"
+      },
+      {
+        "type": "font",
+        "name": "FONT_OLDTOPAZ_SUBSET_14",
+        "file": "fonts/Topaz-8.ttf"
+      },
+      {
+        "type": "font",
+        "name": "FONT_OLDTOPAZ_SUBSET_19",
+        "file": "fonts/Topaz-8.ttf"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
