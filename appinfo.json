@@ -4,7 +4,7 @@
   "longName": "Amiga Boing",
   "companyName": "lesliesbird",
   "versionCode": 3,
-  "versionLabel": "3.3",
+  "versionLabel": "3.6",
   "watchapp": {
     "watchface": true
   },
@@ -12,93 +12,38 @@
   "resources": {
     "media": [
               {
-              "type": "png-trans",
+              "type": "bitmap",
               "name": "IMAGE_FRAME1",
-              "file": "images/frame1.png",
-              "targetPlatforms": [
-                                  "aplite"
-                                  ]
+              "file": "images/frame1.png"
               },
               {
-              "type": "png-trans",
+              "type": "bitmap",
               "name": "IMAGE_FRAME2",
-              "file": "images/frame2.png",
-              "targetPlatforms": [
-                                  "aplite"
-                                  ]
+              "file": "images/frame2.png"
               },
               {
-              "type": "png-trans",
+              "type": "bitmap",
               "name": "IMAGE_FRAME3",
-              "file": "images/frame3.png",
-              "targetPlatforms": [
-                                  "aplite"
-                                  ]
+              "file": "images/frame3.png"
               },
               {
-              "type": "png-trans",
+              "type": "bitmap",
               "name": "IMAGE_FRAME4",
-              "file": "images/frame4.png",
-              "targetPlatforms": [
-                                  "aplite"
-                                  ]
+              "file": "images/frame4.png"
               },
               {
-              "type": "png-trans",
+              "type": "bitmap",
               "name": "IMAGE_FRAME5",
-              "file": "images/frame5.png",
-              "targetPlatforms": [
-                                  "aplite"
-                                  ]
-              },
-              {
-              "type": "png",
-              "name": "IMAGE_FRAME6",
-              "file": "images/frame1.png",
-              "targetPlatforms": [
-                                  "basalt"
-                                  ]
-              },
-              {
-              "type": "png",
-              "name": "IMAGE_FRAME7",
-              "file": "images/frame2.png",
-              "targetPlatforms": [
-                                  "basalt"
-                                  ]
-              },
-              {
-              "type": "png",
-              "name": "IMAGE_FRAME8",
-              "file": "images/frame3.png",
-              "targetPlatforms": [
-                                  "basalt"
-                                  ]
-              },
-              {
-              "type": "png",
-              "name": "IMAGE_FRAME9",
-              "file": "images/frame4.png",
-              "targetPlatforms": [
-                                  "basalt"
-                                  ]
-              },
-              {
-              "type": "png",
-              "name": "IMAGE_FRAME10",
-              "file": "images/frame5.png",
-              "targetPlatforms": [
-                                  "basalt"
-                                  ]
+              "file": "images/frame5.png"
               },
       {
         "menuIcon": true,
-        "type": "png",
+        "type": "bitmap",
         "name": "IMAGE_MENU_ICON",
         "file": "images/menu_icon.png"
       },
       {
-        "type": "png",
+        "type": "bitmap",
         "name": "IMAGE_GRID",
         "file": "images/background.png"
       },
@@ -116,7 +61,10 @@
   },
   "targetPlatforms": [
     "aplite",
-    "basalt"
+    "basalt",
+	"chalk",
+	"diorite",
+	"emery"
   ],
   "sdkVersion": "3"
 }
